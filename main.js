@@ -6,67 +6,67 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual sua altura?",
+        enunciado: "Quando você nasceu?",
         alternativas: [
             {
-                texto: "+1,70",
-                afirmacao: "Você tem mais que 1,70"
+                texto: "janeiro-junho",
+                afirmacao: "leantador"
             },
             {
-                texto: "-1,70",
-                afirmacao: "Você tem menos de 1,70"
+                texto: "julho-dezembro",
+                afirmacao: "ponteiro"
             }
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Qual sua cor favorita?",
         alternativas: [
             {
-                texto: "Texto 2.1",
-                afirmacao: "Afirmação 2.1"
+                texto: "Rosa",
+                afirmacao: "Brasil"
             },
             {
-                texto: "Texto 2.2",
-                afirmacao: "Afirmação 2.2"
+                texto: "Azul",
+                afirmacao: "Japão"
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Melhor jogo?",
         alternativas: [
             {
-                texto: "Texto 3.1",
-                afirmacao: "Afirmação 3.1"
+                texto: "Overwatch 2",
+                afirmacao: "ficou no banco"
             },
             {
-                texto: "Texto 3.2",
-                afirmacao: "Afirmação 3.2"
+                texto: "Roblox",
+                afirmacao: "pontuador da partida"
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "Escolha um prof",
         alternativas: [
             {
-                texto: "Texto 4.1",
-                afirmacao: "Afirmação 4.1"
+                texto: "Matheus",
+                afirmacao: "time bom"
             },
             {
-                texto: "Texto 4.2",
-                afirmacao: "Afirmação 4.2"
+                texto: "Rubia",
+                afirmacao: "time ruim"
             }
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "rebeca ou bile?",
         alternativas: [
             {
-                texto: "Texto 5.1",
-                afirmacao: "Afirmação 5.1"
+                texto: "rebeca",
+                afirmacao: "Ouro"
             },
             {
-                texto: "Texto 5.2",
-                afirmacao: "Afirmação 5.2"
+                texto: "biles",
+                afirmacao: "Perdeu nos grupos"
             }
         ]
     },
