@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "janeiro-junho",
-                afirmacao: "leantador"
+                afirmacao: "levantador"
             },
             {
                 texto: "julho-dezembro",
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Rosa",
-                afirmacao: "Brasil"
+                afirmacao: "do Brasil"
             },
             {
                 texto: "Azul",
-                afirmacao: "Japão"
+                afirmacao: "do Japão"
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Overwatch 2",
-                afirmacao: "ficou no banco"
+                afirmacao: ",ficou no banco"
             },
             {
                 texto: "Roblox",
-                afirmacao: "pontuador da partida"
+                afirmacao: ",pontuador da partida"
             }
         ]
     },
@@ -49,24 +49,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Matheus",
-                afirmacao: "time bom"
+                afirmacao: ",time bom"
             },
             {
                 texto: "Rubia",
-                afirmacao: "time ruim"
+                afirmacao: ",time ruim"
             }
         ]
     },
     {
-        enunciado: "rebeca ou bile?",
+        enunciado: "rebeca ou biles?",
         alternativas: [
             {
                 texto: "rebeca",
-                afirmacao: "Ouro"
+                afirmacao: "e ganhou ouro"
             },
             {
                 texto: "biles",
-                afirmacao: "Perdeu nos grupos"
+                afirmacao: "e perdeu nos grupos"
             }
         ]
     },
