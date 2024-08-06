@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Rosa",
-                afirmacao: "do Brasil"
+                afirmacao: "do Brasil,"
             },
             {
                 texto: "Azul",
-                afirmacao: "do Japão"
+                afirmacao: "do Japão,"
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Overwatch 2",
-                afirmacao: ",ficou no banco"
+                afirmacao: "ficou no banco,"
             },
             {
                 texto: "Roblox",
-                afirmacao: ",pontuador da partida"
+                afirmacao: "pontuador da partida,"
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Matheus",
-                afirmacao: ",time bom"
+                afirmacao: "time bom"
             },
             {
                 texto: "Rubia",
-                afirmacao: ",time ruim"
+                afirmacao: "time ruim"
             }
         ]
     },
