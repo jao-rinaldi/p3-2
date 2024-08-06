@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual fruta vc prefere?",
+        enunciado: "Qual sua altura?",
         alternativas: [
             {
-                texto: "Banana",
-                afirmacao: "Você é corinthiano"
+                texto: "+1,70",
+                afirmacao: "Você tem mais que 1,70"
             },
             {
-                texto: "Maçã",
-                afirmacao: "Você é londrinense"
+                texto: "-1,70",
+                afirmacao: "Você tem menos de 1,70"
             }
         ]
     },
