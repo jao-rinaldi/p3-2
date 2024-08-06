@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Qual fruta vc prefere?",
         alternativas: [
             {
-                texto: "Texto 1.1",
-                afirmacao: "Afirmação 1.1"
+                texto: "Banana",
+                afirmacao: "Você é corinthiano"
             },
             {
-                texto: "Texto 1.2",
-                afirmacao: "Afirmação 1.2"
+                texto: "Maçã",
+                afirmacao: "Você é londrinense"
             }
         ]
     },
